@@ -32,6 +32,17 @@ p {
   color: white;
 }
 
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer ul li {
+  display: inline;
+}
+
 nav ul {
   list-style: none;
   font-size: 18px;
