@@ -28,6 +28,10 @@ p {
   background-repeat: no-repeat;
 }
 
+.flatiron h3 {
+  color: white;
+}
+
 nav ul {
   list-style: none;
   font-size: 18px;
